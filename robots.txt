@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: http://localhost/sitemap.xml
+Sitemap: https://boring-man-tools.github.io/wiki/sitemap.xml
