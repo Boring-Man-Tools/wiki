@@ -1,0 +1,10 @@
+---
+header:
+  - name: Steam
+    ref: https://store.steampowered.com/app/346120/Boring_Man__Online_Tactical_Stickman_Combat/
+    icon: gdoc_steam
+    external: true
+  - name: GitHub
+    ref: https://github.com/Boring-Man-Tools/wiki
+    icon: gdoc_github
+    external: true
