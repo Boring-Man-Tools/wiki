@@ -6,6 +6,13 @@ title: Premium!
 The Premium DLC is a DLC that gives access to cool aesthetic features!  
 You can buy it {{< button href="https://store.steampowered.com/app/346170/Boring_Man_Premium/" >}}here{{< /button >}} for 4,99$.
 
+## Menu
+In the menu, you can now click on "*Premium Options*". Clicking on it will open a bunch options that are listed afterwards.
+{{< expand "Options in menu" >}}
+![](https://i.imgur.com/ZuNSn3V.png)
+![](https://i.imgur.com/ABV07pK.png)
+{{< /expand >}}
+
 ## Features
 ### Hats
 You can choose a hat from 56 hats! (*+ 6 hats in [winter period](/wiki/fixme)*).
@@ -75,4 +82,48 @@ You can choose a hat from 56 hats! (*+ 6 hats in [winter period](/wiki/fixme)*).
 | Stag Antlers               | ![](https://i.imgur.com/Fgg75b1.png) | Winter only.                                                               |
 | Hanukkah Headband          | ![](https://i.imgur.com/oAqYKXj.png) | Winter only.                                                               |
 | Kwanzaa Krown              | ![](https://i.imgur.com/8XKoB9d.png) | Winter only.                                                               |
+{{< /expand >}}
+
+### Double jump
+You can choose between different double jump effects. You can also choose the color of the effect.
+{{< expand "List of effects" >}}
+| Name        | Sprite                               |
+| ----------- | ------------------------------------ |
+| Stars       | ![](https://i.imgur.com/HqzAoYU.png) |
+| Hearts      | ![](https://i.imgur.com/59REQmf.png) |
+| Smiles      | ![](https://i.imgur.com/WnseoMX.png) |
+| Skulls      | ![](https://i.imgur.com/UVnVgV5.png) |
+| Lightning   | ![](https://i.imgur.com/0Sn1yq8.png) |
+| Lines       | ![](https://i.imgur.com/9X9NTEh.png) |
+| Pixels      | ![](https://i.imgur.com/GDsAhHZ.png) |
+| Arrows      | ![](https://i.imgur.com/jknjLGh.png) |
+| Plus Signs  | ![](https://i.imgur.com/kJAHhhR.png) |
+| Angry Faces | ![](https://i.imgur.com/I2XFFve.png) |
+| Circles     | ![](https://i.imgur.com/7g9lYHs.png) |
+| Explosions  | ![](https://i.imgur.com/yXu6c7o.png) |
+| NO!         | ![](https://i.imgur.com/gXLfel1.png) |
+| Boxes       | ![](https://i.imgur.com/xQPrE1n.png) |
+| Stickpeople | ![](https://i.imgur.com/cjZcWFy.png) |
+| Crosses     | ![](https://i.imgur.com/GUFG8aW.png) |
+| #1          | ![](https://i.imgur.com/V0JwyLI.png) |
+{{< /expand >}}
+
+### Colors
+You can set a color for the following:
+- Double jump effect
+- Bullet
+- Name in chat
+- Blood
+- Jetpack Vapor
+
+### Voice Pitch
+You can set your voice pitch to Low, Normal or High. The voice pitch can be heard when doing certain emotes.
+
+### Emotes
+You can use two new [emotes](/wiki/fixme) by typing in chat "*/warcry*" or "*/letsgo*".
+{{< expand "Emotes" >}}
+| Name          | Animation                            |
+| ------------- | ------------------------------------ |
+| /warcry       | ![](https://cdn.akamai.steamstatic.com/steam/apps/346170/extras/warcry.gif?t=1626289680) |
+| /letsgo       | ![](https://cdn.akamai.steamstatic.com/steam/apps/346170/extras/letsgo.gif?t=1626289680) |
 {{< /expand >}}
