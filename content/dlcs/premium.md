@@ -8,6 +8,7 @@ You can buy it {{< button href="https://store.steampowered.com/app/346170/Boring
 
 ## Menu
 In the menu, you can now click on "*Premium Options*". Clicking on it will open a bunch options that are listed afterwards.
+
 {{< expand "Options in menu" >}}
 ![](https://i.imgur.com/ZuNSn3V.png)
 ![](https://i.imgur.com/ABV07pK.png)
