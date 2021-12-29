@@ -6,6 +6,7 @@ title: Skins
 All DLCs described on this page give access to unique skins.
 
 ## Burning skins
+> {{< icon "quote-left" >}}
 > These weapon skins are hot hot hot! If you like suffering from 3rd degree burns while slaughtering your enemies, than these weapon skins are right up your alley!
 
 You can buy it {{< button href="https://store.steampowered.com/app/1018761/Boring_Man_Burning_Weapon_Skins/" >}}here{{< /button >}} for 1,59$.
@@ -18,6 +19,7 @@ You can buy it {{< button href="https://store.steampowered.com/app/1018761/Borin
 {{< /expand >}}
 
 ## Platinum skins
+> {{< icon "quote-left" >}}
 > Do you think your weapons aren't shiny enough? Do you not like the sparkle of gold weapons but not the urine-like color? Well have *I* got the microtransaction for you.
 
 You can buy it {{< button href="https://store.steampowered.com/app/1018760/Boring_Man_Platinum_Weapon_Skins/" >}}here{{< /button >}} for 1,59$.
@@ -30,6 +32,7 @@ You can buy it {{< button href="https://store.steampowered.com/app/1018760/Borin
 {{< /expand >}}
 
 ## Splintered skins
+> {{< icon "quote-left" >}}
 > Show your gratitude to the spirits of the forest with these mystical weapon skins! Wood works fine as a material for a gun. Really!
 
 You can buy it {{< button href="https://store.steampowered.com/app/1194780/Boring_Man_Splintered_Weapon_Skins/" >}}here{{< /button >}} for 1,59$.
@@ -42,6 +45,7 @@ You can buy it {{< button href="https://store.steampowered.com/app/1194780/Borin
 {{< /expand >}}
 
 ## Rainbow skins
+> {{< icon "quote-left" >}}
 > Show your enemies every color of the rainbow! Especially red. Lots and lots of red.
 
 You can buy it {{< button href="https://store.steampowered.com/app/1194781/Boring_Man_Rainbow_Weapon_Skins/" >}}here{{< /button >}} for 1,59$.
@@ -54,7 +58,8 @@ You can buy it {{< button href="https://store.steampowered.com/app/1194781/Borin
 {{< /expand >}}
 
 ## Staticy skins
-> What da... whats up with these guns? Unlike your ping, the poor signal these weapon skins have are deadly enough to kill your grandma.
+> {{< icon "quote-left" >}}
+>  What da... whats up with these guns? Unlike your ping, the poor signal these weapon skins have are deadly enough to kill your grandma.
 
 You can buy it {{< button href="https://store.steampowered.com/app/1520140/Boring_Man_Staticy_Weapon_Skins/" >}}here{{< /button >}} for 1,59$.
 
@@ -66,6 +71,7 @@ You can buy it {{< button href="https://store.steampowered.com/app/1520140/Borin
 {{< /expand >}}
 
 ## Mystic skins
+> {{< icon "quote-left" >}}
 > These weapon skins are empowered with great might! Not really. But they sure look cool.
 
 You can buy it {{< button href="https://store.steampowered.com/app/1520141/Boring_Man_Mystic_Weapon_Skins/" >}}here{{< /button >}} for 1,59$.
