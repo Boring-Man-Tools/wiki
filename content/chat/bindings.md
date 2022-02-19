@@ -33,7 +33,7 @@ title: Chat bindings
 ![](https://imgur.com/z9Jh1eZ.png)
 
 ### Emotes
-You can include emotes in bindings.  
+You can include [emotes](/wiki/chat/emotes/) in bindings.  
 The list of emotes is:
 
 - `/yeehaw`

@@ -122,11 +122,4 @@ You can set a color for the following:
 You can set your voice pitch to Low, Normal or High. The voice pitch can be heard when doing certain emotes.
 
 ### Emotes
-<!-- FIXME: emotes link -->
-You can use two new [emotes]() by typing in chat "*/warcry*" or "*/letsgo*".
-{{< expand "Emotes" >}}
-| Name          | Animation                            |
-| ------------- | ------------------------------------ |
-| /warcry       | ![](https://cdn.akamai.steamstatic.com/steam/apps/346170/extras/warcry.gif?t=1626289680) |
-| /letsgo       | ![](https://cdn.akamai.steamstatic.com/steam/apps/346170/extras/letsgo.gif?t=1626289680) |
-{{< /expand >}}
+You can use 2 new [emotes](/wiki/chat/emotes/) by typing in chat `/warcry` or `/letsgo`. See the [emotes](/wiki/chat/emotes/#premium-emotes).
